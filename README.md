@@ -129,38 +129,6 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
   
   
   <!--- Education --->  
-  
-<h1 align="center">
-    Education 
-    </h2>
-
-  Eight Semester - `Bachelor` in `Software Engineering `(BSSE)` - Comsats University Islamabad
-  
-  `Intermediate` in `Computer Science` `(ICS)` - Punjab Group of College's 
-  
-  `Secondary School` Certificate `(SSC)` or `Matriculation` Examination - Islamabad Model College For Boys
-
-  
-  <!--- Portfolio/Website --->  
-  
-<h1 align="center">
-    Portfolio/Website
-    </h2>
-  
-  `Personal Website` -> <a href="https://ossamamehmood.github.io" target="_blank">`Ossama Mehmood`</a>
-  
-  `Behance (Portfolio)` -> <a href="https://www.behance.net/ossamamehmood" target="_blank">`Ossama Mehmood`</a>
-
-  `Figma (UI/UX)` -> <a href="https://www.figma.com/@ossamamehmood" target="_blank">`Ossama Mehmood`</a>
-  
-  `Linktree` -> <a href="https://linktr.ee/ossamamehmood" target="_blank">`Ossama Mehmood`</a>
-  
-  
-  <!--- Buy Me a Coffee ☕ ---> 
-  
-<!--- <h3 align="center"></h3>
-<p><a href="https://www.buymeacoffee.com/ossamamehmood"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" height="40" width="160" alt="oss amehmood" /></a><a href="https://ko-fi.com/ossamamehmood">
-<img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="160" alt="ossamamehmood" /></a></p> --->
 
   
   <!--- adding 3D earth icon to show some love for the environment 🌏 --->
@@ -186,10 +154,3 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
 <!--- Github snack contribution graph --->
   
 <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
-
-<!--- building footer with spaceship question --->
-  
-![footer](https://user-images.githubusercontent.com/60597290/152518980-fa55fbc8-81fe-4bba-bf52-21320455e217.png)
-<img height="50" src="https://user-images.githubusercontent.com/60597290/152519754-992acfbc-39df-489d-a01a-72ea86a08996.png" />
-  
- </div>
